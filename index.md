@@ -46,7 +46,7 @@ layout: default
   - AMBA (AXI, APB, AHB), JTAG, UART, SPI, I2C.
 
 - **Others**
-  - Passed the Temple of Water in OoT without a guide 🗡️ 
+  - Passed the Temple of Water in TLoZ:OoT🗡️ without a guide. 
 
 ## Languages
 - English 🇬🇧 (**C1**)
@@ -59,11 +59,11 @@ layout: default
 <div class="card">
   <h3>Master Thesis: Generator Concept for Complex SoC Designs</h3>
   <p>Developed a framework for automated System-on-Chip generation, integrating Racyics’ existing toolchain into a flow where SoC configurations are derived from declarative YAML descriptions. This reduced manual effort and errors in prototyping while improving consistency and flexibility for design space exploration.</p>
-  <a href=""><span class="card-link-spanner"></span></a>
+  <a href="https://github.com/Saacman/crafter.git"><span class="card-link-spanner"></span></a>
 </div>
 <div class="card">
   <h3>iPod Classic Bluetooth integration</h3>
-  <p>Used an ATtiny <b>402</b> microcontroller to add Bluetooth 5.2 support to the iPod Classic 6th Gen. The project includes the firmware source code and a custom PCB that ties into the iPod’s PMU and clickwheel buttons for integrated power control.</p>
+  <p>Used an <b>ATtiny 402</b> microcontroller to add Bluetooth 5.2 support to the iPod Classic 6th Gen. The project includes the firmware source code and a custom PCB that ties into the iPod’s PMU and clickwheel buttons for integrated power control.</p>
   <a href="https://github.com/Saacman/ipod_avr_control"><span class="card-link-spanner"></span></a>
 </div>
 

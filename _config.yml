@@ -6,6 +6,7 @@ email: sanchezf.si@outlook.com
 # Other Config
 show_downloads: false
 hide_project_page: true
+hide_project_footer: true
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
@@ -19,3 +20,6 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/isaac-sf/
+  - name: Download as PDF
+    icon: <i class="fas fa-archive"></i>
+    link: https://www.dropbox.com/scl/fi/t4yi9z3eowoaigcmmtwsk/Isaac_Sanchez_CV.pdf?rlkey=ew8how26mgitconzwh3n8arie&st=kdpel2nt&dl=1
