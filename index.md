@@ -6,7 +6,7 @@ layout: default
 
 ## Professional Experience
 
-### DD&V Engineer | Working Student [***@Racyics***](https://racyics.de/)
+### DD&V Engineer (Working Student) [***@Racyics***](https://racyics.de/)
 * Enhanced JTAG IP for production deployment by resolving critical bugs, ensuring IEEE standard compliance, and strengthening the verification infrastructure with custom UVM scoreboards, assertions, and integration tests.
 * Designed and implemented verification components for clock gating and power mode logic in a complex industry-grade SoC, with hands-on experience in UVM-based IP verification and AMBA protocol validation; additionally supported ROM generation and integration for physical implementation.
 * Streamlined verification flows by improving scripts, tooling, and reusable components, and authored detailed IP and VIP documentation, reducing integration overhead and accelerating onboarding for future projects.
@@ -24,10 +24,23 @@ layout: default
 ## Education
 - MSc. Nanoelectronic Systems | ***TU Dresden***
 - Diploma Course in Integrated Circuit Design | ***CINVESTAV***
-- Academic Exchange | **SOU**
+- Academic Exchange | ***SOU***
 - BSc. Mechatronics Engineering | ***Universidad de Guanajuato***
 
 ## Skills
+#### RTL Design and Verificatioon
+- Verilog, SystemVerilog, SystemC, VHDL.
+- UVM, SystemVerilog Assertions (SVAs), Coverage.
+
+#### Programming
+- C/C++, Python, Rust.
+- TCL, Bash, Zsh, Make.
+
+#### Tools
+- Linux, Git, JIRA, Docker.
+
+#### Protocols
+- AMBA (AXI, APB, AHB), JTAG, UART, SPI, I2C.
 
 
 ## Languages
@@ -37,7 +50,7 @@ layout: default
 
 
 ## Some Personal Projects
-### Generator Concept for Complex SoC Designs
+### Thesis: Generator Concept for Complex SoC Designs
 Focused on developing a framework for complex System-on-Chip generation. The goal was to integrate Racyics’ existing toolchain into a flow where SoC configurations can be created from declarative descriptions (YAML). This work addressed a practical need: to reduce manual effort and potential errors in SoC prototyping, while improving consistency and flexibility in design space exploration.
 ### [iPod Classic Bluetooth integration](https://github.com/Saacman/ipod_avr_control)
 Used an ATTiny microcontroller to seamlessly integrate bluetooth 5.2 functionality to the beloved iPod Classic 6th Gen. The project includes the source code, as well as the PCB designed to integrate the power control directly into the iPod PMU and clickwheel buttons.
@@ -49,3 +62,9 @@ Used an ATTiny microcontroller to seamlessly integrate bluetooth 5.2 functionali
 - Cooking
 - Flecki 🐕~ _My dog!_ 
 
+<div class="card">
+  <h3>Some Title</h3>
+  <p><b>New Delhi</b>, India<br>
+  Some Text</p>
+  <a href="https://vaibhavvikas.ml/"><span class="card-link-spanner"></span></a>
+</div>

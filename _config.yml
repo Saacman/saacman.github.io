@@ -3,10 +3,17 @@ logo: /assets/img/round_flecki.png
 description: 'Master’s graduate in Nanoelectronic Systems with hands-on experience in RTL design and digital verification. Skilled in SystemVerilog, UVM, assertions, and functional coverage, with a solid background in scripting and EDA tools. Experienced in creating and improving verification environments, collaborating across design and verification teams to ensure robust, high-quality designs.'
 
 # Other Config
-show_downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
 - jekyll-remote-theme
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+
+color-scheme: light
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/Saacman
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/
