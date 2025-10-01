@@ -1,0 +1,26 @@
+---
+---
+
+/* Import the theme’s default styles */
+@import "{{ site.theme }}";
+
+/* Elegant link colors */
+a {
+  color: #1a4d7c; /* Marine blue for normal links */
+  text-decoration: none; /* Keep it clean */
+}
+
+a:visited {
+  color: #15395c; /* Slightly darker marine tone for visited links */
+}
+
+a:hover,
+a:focus {
+  color: #3ba27a; /* Soft green on hover/focus */
+  text-decoration: underline; /* Gentle hover effect */
+}
+
+a:active {
+  color: #e6c229; /* Soft yellow when clicked */
+}
+
