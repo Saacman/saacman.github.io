@@ -6,16 +6,19 @@ layout: default
 
 ## Professional Experience
 
-### DD&V Engineer (Working Student) [***@Racyics***](https://racyics.de/) [Oct 2023 – Mar 2025]
+### DD&V Engineer (Working Student) [***@Racyics***](https://racyics.de/)
+#### [Oct 2023 – Mar 2025]
 * Enhanced JTAG IP for production deployment by resolving critical bugs, ensuring IEEE standard compliance, and strengthening the verification infrastructure with custom UVM scoreboards, assertions, and integration tests.
 * Designed and implemented verification components for clock gating and power mode logic in a complex industry-grade SoC, with hands-on experience in UVM-based IP verification and AMBA protocol validation; additionally supported ROM generation and integration for physical implementation.
 * Streamlined verification flows by improving scripts, tooling, and reusable components, and authored detailed IP and VIP documentation, reducing integration overhead and accelerating onboarding for future projects.
 
-### Studentische Hilfskraft (SHK) [***@CFAED***](https://cfaed.tu-dresden.de/) [Mar – Sep 2023]
+### Studentische Hilfskraft (SHK) [***@CFAED***](https://cfaed.tu-dresden.de/) 
+#### [Mar – Sep 2023]
 * Designed and implemented an experimental hardware-assisted Federated Learning framework for IoT applications, enabling distributed training across decentralized edge devices while ensuring data privacy.
 * Applied model optimization techniques, including quantization, to reduce neural network size and computational overhead while preserving accuracy, making the framework more resource-efficient for edge deployment.
 
-### Digital Design and Verification Engineer [***@CTS-CINVESTAV***](https://cts-design.gdl.cinvestav.mx/acerca.html) [Apr – Sep 2022]
+### Digital Design and Verification Engineer [***@CTS-CINVESTAV***](https://cts-design.gdl.cinvestav.mx/acerca.html)
+#### [Apr – Sep 2022]
 * Developed and executed UVM-based test benches for functional verification of experimental RTL designs, ensuring correctness and robustness.
 * Implemented synthesis and physical design flows using Cadence Genus and Innovus, from RTL to layout, validating design rule compliance.
 * Designed and characterized custom logic cells in Cadence Virtuoso for a proprietary PDK, contributing to the IP library development.
@@ -42,7 +45,8 @@ layout: default
 - **Protocols**
   - AMBA (AXI, APB, AHB), JTAG, UART, SPI, I2C.
 
-- Passed the Temple of Water in OoT without a guide. 
+- **Others**
+  - Passed the Temple of Water in OoT without a guide 🗡️ 
 
 ## Languages
 - English 🇬🇧 (**C1**)
