@@ -8,19 +8,27 @@ layout: default
 
 ## Professional Experience
 
-### Racyics GmbH
-- This
-- high-quality
+### Digital Design and Verification Engineer | Working Student
+#### Racyics GmbH
+* Enhanced JTAG IP for production deployment by resolving critical bugs, ensuring IEEE standard compliance, and strengthening the verification infrastructure with custom UVM scoreboards, assertions, and integration tests.
+* Designed and implemented verification components for clock gating and power mode logic in a complex industry-grade SoC, with hands-on experience in UVM-based IP verification and AMBA protocol validation; additionally supported ROM generation and integration for physical implementation.
+* Streamlined verification flows by improving scripts, tooling, and reusable components, and authored detailed IP and VIP documentation, reducing integration overhead and accelerating onboarding for future projects.
 
-### Center for Advancing Electroncis Dresden
-- Hi
+### Studentische Hilfskraft (SHK)
+#### Center for Advancing Electroncis Dresden
+* Designed and implemented an experimental hardware-assisted Federated Learning framework for IoT applications, enabling distributed training across decentralized edge devices while ensuring data privacy.
+* Applied model optimization techniques, including quantization, to reduce neural network size and computational overhead while preserving accuracy, making the framework more resource-efficient for edge deployment.
 
-### Center of Semiconductors Technology
-- Hola
+### Digital Design and Verification Engineer
+#### Center of Semiconductors Technology
+* Developed and executed UVM-based test benches for functional verification of experimental RTL designs, ensuring correctness and robustness.
+* Implemented synthesis and physical design flows using Cadence Genus and Innovus, from RTL to layout, validating design rule compliance.
+* Designed and characterized custom logic cells in Cadence Virtuoso for a proprietary PDK, contributing to the IP library development.
+* Built Dockerized environments integrating open-source flows to enable reproducible RTL-to-GDSII training setups and facilitate onboarding.
 
 ## Education
 
-### MSc. in Nanoelectronic Systems @ TU Dresden
+### MSc. Nanoelectronic Systems @ TU Dresden
 - Thesis (See Projects)
 
 ### Diploma Course in Integrated Circuit Design @ CINVESTAV
@@ -29,7 +37,7 @@ layout: default
 ### Academic Exchange @ Southern Oregon University
 - Happy
 
-### BSc. in Mechatronics Engineering @ Universidad de Guanajuato
+### BSc. Mechatronics Engineering @ Universidad de Guanajuato
 - Coursework
 
 ## Skills
