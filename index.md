@@ -42,6 +42,7 @@ layout: default
 - **Protocols**
   - AMBA (AXI, APB, AHB), JTAG, UART, SPI, I2C.
 
+- Passed the Temple of Water in OoT without a guide. 
 
 ## Languages
 - English 🇬🇧 (**C1**)
@@ -50,20 +51,15 @@ layout: default
 
 
 ## Some Personal Projects
-### Thesis: Generator Concept for Complex SoC Designs
-Focused on developing a framework for complex System-on-Chip generation. The goal was to integrate Racyics’ existing toolchain into a flow where SoC configurations can be created from declarative descriptions (YAML). This work addressed a practical need: to reduce manual effort and potential errors in SoC prototyping, while improving consistency and flexibility in design space exploration.
-### [iPod Classic Bluetooth integration](https://github.com/Saacman/ipod_avr_control)
-Used an ATTiny microcontroller to seamlessly integrate bluetooth 5.2 functionality to the beloved iPod Classic 6th Gen. The project includes the source code, as well as the PCB designed to integrate the power control directly into the iPod PMU and clickwheel buttons.
 
 <div class="card">
-  <h3>Some Title</h3>
-  <p><b>text</b>, other<br>
-  Some Text</p>
+  <h3>Master Thesis: Generator Concept for Complex SoC Designs</h3>
+  <p>Developed a framework for automated System-on-Chip generation, integrating Racyics’ existing toolchain into a flow where SoC configurations are derived from declarative YAML descriptions. This reduced manual effort and errors in prototyping while improving consistency and flexibility for design space exploration.</p>
   <a href=""><span class="card-link-spanner"></span></a>
 </div>
 <div class="card">
   <h3>iPod Classic Bluetooth integration</h3>
-  <p>Used an ATTiny microcontroller to seamlessly integrate bluetooth 5.2 functionality to the beloved iPod Classic 6th Gen. The project includes the source code, as well as the PCB designed to integrate the power control directly into the iPod PMU and clickwheel buttons.</p>
+  <p>Used an ATtiny <b>402</b> microcontroller to add Bluetooth 5.2 support to the iPod Classic 6th Gen. The project includes the firmware source code and a custom PCB that ties into the iPod’s PMU and clickwheel buttons for integrated power control.</p>
   <a href="https://github.com/Saacman/ipod_avr_control"><span class="card-link-spanner"></span></a>
 </div>
 
