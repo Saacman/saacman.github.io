@@ -1,9 +1,9 @@
 title: Isaac Sanchez
 logo: /assets/img/round_flecki.png
 description: 'Master’s graduate in Nanoelectronic Systems with hands-on experience in RTL design and digital verification. Skilled in SystemVerilog, UVM, assertions, and functional coverage, with a solid background in scripting and EDA tools. Experienced in creating and improving verification environments, collaborating across design and verification teams to ensure robust, high-quality designs.'
-
+email: sanchezf.si@outlook.com
 # Other Config
-show_downloads: true
+show_downloads: false
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
@@ -16,4 +16,4 @@ platforms:
     link: https://github.com/Saacman
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/isaac-sf/
