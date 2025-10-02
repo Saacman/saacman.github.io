@@ -12,7 +12,7 @@ layout: default
 * Designed and implemented verification components for clock gating and power mode logic in a complex industry-grade SoC, with hands-on experience in UVM-based IP verification and AMBA protocol validation; additionally supported ROM generation and integration for physical implementation.
 * Streamlined verification flows by improving scripts, tooling, and reusable components, and authored detailed IP and VIP documentation, reducing integration overhead and accelerating onboarding for future projects.
 
-### Studentische Hilfskraft (SHK) [***@CFAED***](https://cfaed.tu-dresden.de/) 
+### Studentische Hilfskraft [***@CFAED***](https://cfaed.tu-dresden.de/) 
 #### [Mar – Sep 2023]
 * Designed and implemented an experimental hardware-assisted Federated Learning framework for IoT applications, enabling distributed training across decentralized edge devices while ensuring data privacy.
 * Applied model optimization techniques, including quantization, to reduce neural network size and computational overhead while preserving accuracy, making the framework more resource-efficient for edge deployment.

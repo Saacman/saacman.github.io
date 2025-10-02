@@ -22,4 +22,5 @@ platforms:
     link: https://www.linkedin.com/in/isaac-sf/
   - name: Download as PDF
     icon: <i class="fas fa-archive"></i>
-    link: https://www.dropbox.com/scl/fi/t4yi9z3eowoaigcmmtwsk/Isaac_Sanchez_CV.pdf?rlkey=ew8how26mgitconzwh3n8arie&st=kdpel2nt&dl=1
+    link: blob:https://github.com/7ae2a75d-da43-4814-a252-98f18edcd789
+    #link: https://www.dropbox.com/scl/fi/t4yi9z3eowoaigcmmtwsk/Isaac_Sanchez_CV.pdf?rlkey=ew8how26mgitconzwh3n8arie&st=kdpel2nt&dl=1
