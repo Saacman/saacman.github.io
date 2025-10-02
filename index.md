@@ -45,8 +45,6 @@ layout: default
 - **Protocols**
   - AMBA (AXI, APB, AHB), JTAG, UART, SPI, I2C.
 
-- **Others**
-  - Passed the Temple of Water in TLoZ:OoT🗡️ without a guide. 
 
 ## Languages
 - English 🇬🇧 (**C1**)
